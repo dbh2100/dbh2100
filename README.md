@@ -11,6 +11,25 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+## Software design patterns:
+
+12 Factor
+API First
+Microservices Architecture
+Caching
+Queue-Centric Worfklow
+API Gateway
+Facade
+Adapter
+Decorator
+Sentinel
+Global Object
+Prebound Method
+Flyweight
+Singleton
+Abstract Factory
+Factory Method
+
 ## Operating systyems:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
