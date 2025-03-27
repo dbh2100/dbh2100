@@ -14,20 +14,35 @@
 ## Software design patterns:
 
 12 Factor
+
 API First
+
 Microservices Architecture
+
 Caching
+
 Queue-Centric Worfklow
+
 API Gateway
+
 Facade
+
 Adapter
+
 Decorator
+
 Sentinel
+
 Global Object
+
 Prebound Method
+
 Flyweight
+
 Singleton
+
 Abstract Factory
+
 Factory Method
 
 ## Operating systyems:
