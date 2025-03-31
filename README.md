@@ -17,7 +17,7 @@
 * API First
 * Microservices Architecture
 * Caching
-* Queue-Centric Worfklow
+* Queue-Centric Workflow
 * API Gateway
 * Facade
 * Adapter
@@ -25,10 +25,6 @@
 * Sentinel
 * Global Object
 * Prebound Method
-* Flyweight
-* Singleton
-* Abstract Factory
-* Factory Method
 
 ## Operating systems:
 
